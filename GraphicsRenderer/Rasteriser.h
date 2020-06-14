@@ -12,6 +12,7 @@
 #include "RGBColour.h"
 #include <cmath>
 #include <vector>
+#include <string>
 
 enum class RenderStates
 {
