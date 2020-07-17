@@ -1,4 +1,4 @@
-# C++ Software Grahpics Renderer
+# C++ Software Graphics Renderer
 
 A 3D Software renderer demo built in C++ without the use of modern graphics libraries. Just using the Windows32 GDI functions to maniplute the windows pixels in the rasterisation stage.
 
