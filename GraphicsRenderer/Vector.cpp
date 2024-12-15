@@ -84,7 +84,7 @@ const Vector Vector::operator/(float scaler) const
 
 float Vector::Magnitude() const
 {
-	return sqrt(pow(_x, 2) + pow(_y, 2) + pow(_z, 2));
+	return (float)sqrt(pow(_x, 2) + pow(_y, 2) + pow(_z, 2));
 }
 
 void Vector::Normalise()

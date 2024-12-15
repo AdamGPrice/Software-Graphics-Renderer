@@ -1,4 +1,5 @@
 #include "Rasteriser.h"
+#include <algorithm>
 
 Rasteriser app;
 
